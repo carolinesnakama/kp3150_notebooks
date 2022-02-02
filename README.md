@@ -1,5 +1,6 @@
-Jupyter Notebooks using Python for KP3150 - Introduction to Fluid Flow and Heat Transfer (Heat Transfer Part)
+##### Jupyter Notebooks for KP3150 - Introduction to Fluid Flow and Heat Transfer (Heat Transfer Part)
 
+0) python_basics.ipynb - tutorial with description of Python resources used in the notebooks
 1) pvt_rel.ipynb - visualization of the relationships between pressure, volume and temperature determined by the ideal gas law
 2) ex_conv.ipynb - numerical example to analyze the convection coefficient h
 3) ex_en_bal.ipynb - numerical example for surface balance (solving a nonlinear equation)
